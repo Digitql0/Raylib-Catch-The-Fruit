@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Ignore build directories
+/build/
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+ninja_build/
+*.o
+*.exe
+
+# Visual Studio Code settings
+.vscode/
+.vscode-server/
+modular-terminal.code-workspace
