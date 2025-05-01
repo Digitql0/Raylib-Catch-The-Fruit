@@ -44,4 +44,4 @@ ninja_build/
 # Visual Studio Code settings
 .vscode/
 .vscode-server/
-Raylib-Food-Collector-Game.code-workspace
+vscode.code-workspace
